@@ -1,6 +1,6 @@
 # Róisín Gleeson
 
-**'Amateur trying to learn how to code and mainly failing'**
+**Amateur trying to learn how to code and mainly failing**
 
 I am on a journey to learn how to code. Currently using python and documenting my journey as I go on my blog 
 
