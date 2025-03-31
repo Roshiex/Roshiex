@@ -40,9 +40,9 @@ I am on a journey to learn how to code. Currently using python and documenting m
  Github <br>
 
 ## 🌱 Currently Learning
-CompTIA Security+
-Linux
-Algorithms 
+CompTIA Security+ <br>
+Linux <br>
+Algorithms <br> 
 
 
 
