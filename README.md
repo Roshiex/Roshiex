@@ -35,9 +35,9 @@ I am on a journey to learn how to code. Currently using python and documenting m
 </div>
 
 ## 📈 Technology and Languages
- Python 
- VSCode
- Github
+ Python <br>
+ VSCode <br>
+ Github <br>
 
 ## 🌱 Currently Learning
 CompTIA Security+
