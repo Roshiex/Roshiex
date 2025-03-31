@@ -13,7 +13,7 @@ I am on a journey to learn how to code. Currently using python and documenting m
 </div>
 
 ## 🛠️ My Tech Stack
-<div align="center">
+<div align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,6 +22,16 @@ I am on a journey to learn how to code. Currently using python and documenting m
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
+</div>
+
+## 📫 Connect With Me
+<div align="left">
+  <a href="roisingleeson.ed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/roisin-gleeson">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ## 📈 Most Used Languages
