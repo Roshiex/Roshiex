@@ -12,7 +12,7 @@ I am on a journey to learn how to code. Currently using python and documenting m
   <p>Developer focused on Python programming. I'm passionate about creating efficient solutions and continuously improving my coding skills. Currently exploring new Python libraries and tools to enhance my projects.</p>
 </div>
 
-##🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
@@ -24,13 +24,13 @@ I am on a journey to learn how to code. Currently using python and documenting m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
 </div>
 
-##📈 Most Used Languages
+## 📈 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=blue_navy&hide_border=true" alt="Top Languages" />
 </div>
 
-##🌱 Currently Learning
-
+## 🌱 Currently Learning
+ 
 CompTIA Security+
 
 
