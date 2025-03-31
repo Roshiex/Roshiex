@@ -1,7 +1,7 @@
 # Róisín Gleeson
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+Developer;GitHub+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Trying" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me 
@@ -25,9 +25,7 @@ I am on a journey to learn how to code. Currently using python and documenting m
 </div>
 
 ## 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=blue_navy&hide_border=true" alt="Top Languages" />
-</div>
+ Python 
 
 ## 🌱 Currently Learning
  
