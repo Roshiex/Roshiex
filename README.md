@@ -1,19 +1,37 @@
 # Róisín Gleeson
 
-**Amateur trying to learn how to code and mainly failing**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+Developer;GitHub+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
+
+## 👨‍💻 About Me 
 
 I am on a journey to learn how to code. Currently using python and documenting my journey as I go on my blog 
 
-### Languages and Tools
+<div align="left">
+  <p>Developer focused on Python programming. I'm passionate about creating efficient solutions and continuously improving my coding skills. Currently exploring new Python libraries and tools to enhance my projects.</p>
+</div>
 
-<img align="left" alt = "Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+##🛠️ My Tech Stack
+<div align="center">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" style="background-color:white; border-radius:50%;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
+</div>
 
+##📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=blue_navy&hide_border=true" alt="Top Languages" />
+</div>
 
-<img align="left" alt = "VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+##🌱 Currently Learning
 
-#
-
-
+CompTIA Security+
 
 
           
