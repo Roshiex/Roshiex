@@ -34,12 +34,16 @@ I am on a journey to learn how to code. Currently using python and documenting m
   </a>
 </div>
 
-## 📈 Most Used Languages
+## 📈 Technology and Languages
  Python 
+ VSCode
+ Github
 
 ## 🌱 Currently Learning
- 
 CompTIA Security+
+Linux
+Algorithms 
+
 
 
           
