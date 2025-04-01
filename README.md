@@ -1,18 +1,15 @@
 # Róisín Gleeson
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning;Always+Trying" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Always+Learning" alt="Typing SVG" />
 </div>
+ 
 
-## 👨‍💻 About Me 
+I am on a journey to have a career in cybersecurity. I am in the process of getting the CompTIA security+ and learning how to code. Currently using python and documenting my journey as I go on my [blog](https://cyberwithroisin.hashnode.dev/). If you would like to follow the journey of someone going from 0 and learning with me, I would love the company.
 
-I am on a journey to learn how to code. Currently using python and documenting my journey as I go on my blog 
 
-<div align="left">
-  <p>Developer focused on Python programming. I'm passionate about creating efficient solutions and continuously improving my coding skills. Currently exploring new Python libraries and tools to enhance my projects.</p>
-</div>
 
-## 🛠️ My Tech Stack
+## ⚙️ Languages and Tools
 <div align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
@@ -34,15 +31,19 @@ I am on a journey to learn how to code. Currently using python and documenting m
   </a>
 </div>
 
-## 📈 Technology and Languages
- Python <br>
- VSCode <br>
- Github <br>
 
 ## 🌱 Currently Learning
-CompTIA Security+ <br>
-Linux <br>
-Algorithms <br> 
+📕 CompTIA Security+ <br>
+💻 Linux <br>
+➕ Algorithms <br> 
+
+## 👾 My down time
+
+<p align="left">
+<img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
 
 
 
