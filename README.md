@@ -5,7 +5,7 @@
 </div>
  
 
-I am on a journey to have a career in cybersecurity. I am in the process of getting the CompTIA security+ and learning how to code. Currently using python and documenting my journey as I go on my [blog](https://cyberwithroisin.hashnode.dev/). If you would like to follow the journey of someone going from 0 and learning with me, I would love the company.
+I am on a journey to have a career in cybersecurity. I am in the process of getting the CompTIA security+ and learning how to code. Currently using python and documenting my journey as I go on my blog. If you would like to follow the journey of someone going from 0 and learning with me, I would love the company.
 
 
 
