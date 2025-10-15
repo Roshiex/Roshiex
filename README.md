@@ -24,6 +24,7 @@ I am on a journey to have a career in cybersecurity. I am in the process of gett
   <! -- HTML-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" title="HTML" />
   </div>
+
 ## 📫 Connect With Me
 <div align="left">
   <a href="roisingleeson.ed@gmail.com">
