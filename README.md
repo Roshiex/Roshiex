@@ -40,7 +40,7 @@ I am on a journey to have a career in cybersecurity. I have sucessfully earned m
 📕 CompTIA Security+ (completed) <br>
 💻 Linux <br>
 ➕ Algorithms <br> 
-💻 Java
+💻 Java <br>
 💻HTML/CSS/ Web development
 
 ## 👾 My down time
