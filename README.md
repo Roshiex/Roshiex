@@ -13,7 +13,6 @@ I am on a journey to have a career in cybersecurity. I have sucessfully earned m
 <div align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
   <! -- HTML-->
