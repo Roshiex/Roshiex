@@ -37,9 +37,11 @@ I am on a journey to have a career in cybersecurity. I am in the process of gett
 
 
 ## 🌱 Currently Learning
-📕 CompTIA Security+ <br>
+📕 CompTIA Security+ (completed) <br>
 💻 Linux <br>
 ➕ Algorithms <br> 
+💻 Java
+💻HTML/CSS/ Web development
 
 ## 👾 My down time
 
