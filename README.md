@@ -19,8 +19,11 @@ I am on a journey to have a career in cybersecurity. I am in the process of gett
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
-</div>
-
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
+  <! -- HTML-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" title="HTML" />
+  </div>
 ## 📫 Connect With Me
 <div align="left">
   <a href="roisingleeson.ed@gmail.com">
