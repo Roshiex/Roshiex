@@ -15,7 +15,7 @@ I am on a journey to have a career in cybersecurity. I have sucessfully earned m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java" title="Java" />
-  <! -- HTML-->
+  <!-- HTML-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" title="HTML" />
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub" style="background-color:white; border-radius:50%;" />
@@ -23,6 +23,14 @@ I am on a journey to have a career in cybersecurity. I have sucessfully earned m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code" />
   <! -- Intellij -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width ="60" height="60" alt="Intellij" title="Intellij"/>
+  <!-- Raspi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width ="60" height="60" alt="RaspberryPi" title="RaspberryPi"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width ="60" height="60" alt="Linux" title="Linux" />
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width ="60" height="60" alt="Windows" title="Windows" />      
+  <!-- Notion -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width ="60" height="60" alt="Notion" title="Notion"/>
           
   </div>
 
