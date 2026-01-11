@@ -5,8 +5,7 @@
 </div>
  
 
-I am on a journey to have a career in cybersecurity. I have sucessfully earned my Security+ and learning how to code. Currently using python, Java and starting in web development and documenting my journey as I go on my blog. If you would like to follow the journey of someone going from 0 and learning with me, I would love the company.
-
+I am on a journey to have a career in technology. I have sucessfully earned my Security+ and learning how to code. Currently using python, Java, HTML, CSS and starting in JS soon. 
 
 
 ## ⚙️ Languages and Tools
